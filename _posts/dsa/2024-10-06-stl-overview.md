@@ -41,24 +41,24 @@ In case you want to optimise on time or you're getting TLE in some problem and y
    
    We aim to create mental models for how the STL containers should look in one's mind, making it easier to visualise problems and their solutions mentally.
    
-   [[Mental Models of various Containers]]
+   [Mental Models of various Containers]({% post_url 2024-10-07-mental-models-of-various-containers %})
    
    For efficient traversal in various container types, we require [[Iterators]]
    
    _Various Container Types in STL_
-   - [[Vector]]
-   - [[Stack]] 
-   - [[Queue]]
-   - [[Priority Queue]]
-   - [[Map]]
-   - [[Set]]
-   - [[Multiset and Multimap]]
-   - [[Deque]]
-   - [[String]]
+   - [Vector]({% post_url 2024-10-07-vector %})
+   - [Stack]({% post_url 2024-10-07-stack %}) 
+   - [Queue]({% post_url 2024-10-07-queue %}) 
+   - [Priority Queue]({% post_url 2024-10-07-priority-queue %})
+   - [Map]({% post_url 2024-10-07-map %})
+   - [Set]({% post_url 2024-10-07-set %})
+   - [Multiset and Multimap]({% post_url 2024-10-07-multiset-and-multimap %})
+   - [Deque]({% post_url 2024-10-07-deque %})
+   - [String]({% post_url 2024-10-07-string %})
    
-   __NOTE__ : [[Push() vs Emplace()]]
+   __NOTE__ : [Push() vs Emplace()]({% post_url 2024-10-07-push-vs-emplace %})
    
-   The thing that gives major power to STL is [[Nesting]]
+   The thing that gives major power to STL is [Nesting]({% post_url 2024-10-07-nesting %})
 
 ## Problem Solving Paradigms (PSP)
 __Most of the problems you ever counter will belong to one amongst the following paradigms__ 
@@ -69,8 +69,8 @@ __Most of the problems you ever counter will belong to one amongst the following
 5. _Graph_ : Solve problems by modeling the relationships between elements as nodes and edges, often using search or traversal algorithms
 
 ## Applications of STL 
-1. [[Budget Problem Variations]] 
-3. [[Depth Counting]] (Both challenge variations remaining)
-4. [[Algorithmic Design]] 
+1. [Budget Problem Variations]({% post_url 2024-10-08-budget-problem-variations %})
+3. [Depth Counting]({% post_url 2024-10-08-depth-counting %}) (Both challenge variations remaining)
+4. [Algorithmic Design]({% post_url 2024-10-08-algorithmic-design %})
 5. Window Maintenance / Sliding Window
 6. Subarray Finding
