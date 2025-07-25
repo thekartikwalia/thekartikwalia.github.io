@@ -3,6 +3,7 @@ title: "Array: Declaration and Advantages"
 date: 2024-09-09 10:00:00 +0530
 categories: [DSA]
 tags: [cpp, arrays, basics]
+math: true
 ---
 
 ## About Arrays 

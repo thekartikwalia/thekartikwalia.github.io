@@ -3,6 +3,7 @@ title: "Array Pointers"
 date: 2024-09-11 10:00:00 +0530
 categories: [DSA]
 tags: [cpp, pointers, arrays]
+math: true
 ---
 
 ## Array Pointers 

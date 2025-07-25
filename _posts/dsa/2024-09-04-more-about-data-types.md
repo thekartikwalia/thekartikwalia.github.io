@@ -3,6 +3,7 @@ title: "More about Data Types"
 date: 2024-09-04 10:00:00 +0530
 categories: [DSA]
 tags: [cpp, data-types, basics]
+math: true
 ---
 
 ## More about Data Types

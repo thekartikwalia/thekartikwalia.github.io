@@ -3,6 +3,7 @@ title: "Functions"
 date: 2024-09-06 10:00:00 +0530
 categories: [DSA]
 tags: [cpp, functions, basics]
+math: true
 ---
 
 ## All about Functions and Examples 

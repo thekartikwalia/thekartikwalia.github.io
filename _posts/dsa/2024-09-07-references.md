@@ -3,6 +3,7 @@ title: "References"
 date: 2024-09-07 10:50:00 +0530
 categories: [DSA]
 tags: [cpp, references, basics]
+math: true
 ---
 
 ## References 
