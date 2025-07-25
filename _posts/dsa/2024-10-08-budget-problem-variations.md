@@ -2,7 +2,7 @@
 layout: post
 title: "Budget Problem Variations"
 date: 2024-10-08
-categories: dsa
+categories: [DSA]
 math: true
 tags: [prefixSum, precomputation, greedy, binary search]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "reverse()"
 date: 2024-10-06 13:10:00 +0530
-categories: [DSA]
+categories: [DSA, STL]
 tags: [cpp, stl, algorithms, reverse]
 math: true
 ---

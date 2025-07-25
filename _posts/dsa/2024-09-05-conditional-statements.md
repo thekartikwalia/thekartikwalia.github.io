@@ -1,7 +1,7 @@
 ---
 title: "Conditional Statements"
 date: 2024-09-05 10:00:00 +0530
-categories: [DSA]
+categories: [DSA, C++ Basics]
 tags: [cpp, conditionals, basics]
 math: true
 ---

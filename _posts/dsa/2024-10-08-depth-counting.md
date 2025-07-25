@@ -2,7 +2,7 @@
 layout: post
 title: "Depth Counting & Next Greater Element"
 date: 2024-10-08
-categories: dsa
+categories: [DSA]
 math: true
 tags: [stack, parentheses, NGE, monotonic-stack, segment-tree, precompute]
 ---

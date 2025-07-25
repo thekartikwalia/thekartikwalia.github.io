@@ -2,7 +2,7 @@
 layout: post
 title: "Vector"
 date: 2024-10-07
-categories: dsa
+categories: [DSA, STL]
 tags: [STL, C++, vector]
 math: true
 ---

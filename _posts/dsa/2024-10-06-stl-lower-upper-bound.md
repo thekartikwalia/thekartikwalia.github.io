@@ -1,7 +1,7 @@
 ---
 title: "lower_bound() and upper_bound()"
 date: 2024-10-06 11:00:00 +0530
-categories: [DSA]
+categories: [DSA, STL]
 tags: [cpp, stl, algorithms, binary-search]
 math: true
 ---

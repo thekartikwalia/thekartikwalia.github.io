@@ -1,7 +1,7 @@
 ---
 title: "2D Arrays: Form, Traversing, Declaring and Passing"
 date: 2024-09-10 10:00:00 +0530
-categories: [DSA]
+categories: [DSA, Arrays]
 tags: [cpp, arrays, 2d-array, pointers]
 math: true
 ---

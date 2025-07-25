@@ -1,7 +1,7 @@
 ---
 title: "Binary Exponentiation"
 date: 2024-10-17 10:30:00 +05:30
-categories: dsa
+categories: [DSA, Modular Arithmetic]
 tags: [exponentiation, modulo, math, number-theory]
 math: true
 ---

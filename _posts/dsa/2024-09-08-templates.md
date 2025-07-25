@@ -1,7 +1,7 @@
 ---
 title: "Templates"
 date: 2024-09-08 8:30:00 +0530
-categories: [DSA]
+categories: [DSA, C++ Basics]
 tags: [cpp, templates, generics]
 math: true
 ---

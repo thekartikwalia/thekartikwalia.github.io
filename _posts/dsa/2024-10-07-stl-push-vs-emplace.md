@@ -2,7 +2,7 @@
 layout: post
 title: "Push vs Emplace in STL"
 date: 2024-10-07
-categories: dsa
+categories: [DSA, STL]
 math: true
 tags: [STL, C++, push, emplace, containers]
 ---

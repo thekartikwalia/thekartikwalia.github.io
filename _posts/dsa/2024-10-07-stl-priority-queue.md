@@ -2,7 +2,7 @@
 layout: post
 title: "Priority Queue"
 date: 2024-10-07
-categories: dsa
+categories: [DSA, STL]
 math: true
 tags: [STL, C++, priority_queue]
 ---

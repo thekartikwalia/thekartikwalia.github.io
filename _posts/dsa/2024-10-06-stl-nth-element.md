@@ -1,7 +1,7 @@
 ---
 title: "nth_element()"
 date: 2024-10-06 11:05:00 +0530
-categories: [DSA]
+categories: [DSA, STL]
 tags: [cpp, stl, algorithms, quickselect, sorting]
 math: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: "sort() and Lambda Comparators"
 date: 2024-10-06 13:40:00 +0530
-categories: [DSA]
+categories: [DSA, STL]
 tags: [cpp, stl, sort, comparator, lambda]
 math: true
 ---

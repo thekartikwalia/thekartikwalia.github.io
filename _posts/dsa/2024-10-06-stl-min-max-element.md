@@ -1,7 +1,7 @@
 ---
 title: "min_element() and max_element()"
 date: 2024-10-06 14:00:00 +0530
-categories: [DSA]
+categories: [DSA, STL]
 tags: [cpp, stl, algorithms, minmax, iterator]
 math: true
 ---

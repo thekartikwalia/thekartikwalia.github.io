@@ -1,7 +1,7 @@
 ---
 title: "Set Precision in C++"
 date: 2024-09-06 10:20:00 +0530
-categories: [DSA]
+categories: [DSA, C++ Basics]
 tags: [cpp, precision, basics]
 math: true
 ---

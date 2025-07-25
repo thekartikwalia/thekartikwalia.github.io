@@ -1,7 +1,7 @@
 ---
 title: "Standard Template Library (STL) – Overview"
 date: 2024-10-06 10:00:00 +0530
-categories: [DSA]
+categories: [DSA, STL]
 tags: [cpp, stl, containers, algorithms]
 math: true
 ---
@@ -26,11 +26,11 @@ In case you want to optimise on time or you're getting TLE in some problem and y
    - [next_permutation()]({% post_url 2024-10-06-stl-next-permutation %})
    - [lower_bound() and upper_bound()]({% post_url 2024-10-06-stl-lower-upper-bound %})
    - [nth_element()]({% post_url 2024-10-06-stl-nth-element %})
-   - [unique()]({% post_url 2024-10-06-unique %})
-   - [reverse()]({% post_url 2024-10-06-reverse %})
-   - [sort() and Lambda Comparators]({% post_url 2024-10-06-sort-and-lambda-comparators %})
-   - [__gcd() and gcd()]({% post_url 2024-10-06-gcd %})
-   - [min_element() and max_element()]({% post_url 2024-10-06-min-max-element %})
+   - [unique()]({% post_url 2024-10-06-stl-unique %})
+   - [reverse()]({% post_url 2024-10-06-stl-reverse %})
+   - [sort() and Lambda Comparators]({% post_url 2024-10-06-stl-sort-and-lambda-comparators %})
+   - [__gcd() and gcd()]({% post_url 2024-10-06-stl-gcd %})
+   - [min_element() and max_element()]({% post_url 2024-10-06-stl-min-max-element %})
 
    For reference, use website [cplusplus](https://cplusplus.com/)
 2. __Containers__
@@ -41,24 +41,24 @@ In case you want to optimise on time or you're getting TLE in some problem and y
    
    We aim to create mental models for how the STL containers should look in one's mind, making it easier to visualise problems and their solutions mentally.
    
-   [Mental Models of various Containers]({% post_url 2024-10-07-mental-models-of-various-containers %})
+   [Mental Models of various Containers]({% post_url 2024-10-07-stl-mental-models-of-various-containers %})
    
-   For efficient traversal in various container types, we require [[Iterators]]
+   For efficient traversal in various container types, we require [Iterators]({% post_url 2024-10-06-stl-iterators %})
    
    _Various Container Types in STL_
-   - [Vector]({% post_url 2024-10-07-vector %})
-   - [Stack]({% post_url 2024-10-07-stack %}) 
-   - [Queue]({% post_url 2024-10-07-queue %}) 
-   - [Priority Queue]({% post_url 2024-10-07-priority-queue %})
-   - [Map]({% post_url 2024-10-07-map %})
-   - [Set]({% post_url 2024-10-07-set %})
-   - [Multiset and Multimap]({% post_url 2024-10-07-multiset-and-multimap %})
-   - [Deque]({% post_url 2024-10-07-deque %})
-   - [String]({% post_url 2024-10-07-string %})
+   - [Vector]({% post_url 2024-10-07-stl-vector %})
+   - [Stack]({% post_url 2024-10-07-stl-stack %}) 
+   - [Queue]({% post_url 2024-10-07-stl-queue %}) 
+   - [Priority Queue]({% post_url 2024-10-07-stl-priority-queue %})
+   - [Map]({% post_url 2024-10-07-stl-map %})
+   - [Set]({% post_url 2024-10-07-stl-set %})
+   - [Multiset and Multimap]({% post_url 2024-10-07-stl-multiset-and-multimap %})
+   - [Deque]({% post_url 2024-10-07-stl-deque %})
+   - [String]({% post_url 2024-10-07-stl-string %})
    
-   __NOTE__ : [Push() vs Emplace()]({% post_url 2024-10-07-push-vs-emplace %})
+   __NOTE__ : [Push() vs Emplace()]({% post_url 2024-10-07-stl-push-vs-emplace %})
    
-   The thing that gives major power to STL is [Nesting]({% post_url 2024-10-07-nesting %})
+   The thing that gives major power to STL is [Nesting]({% post_url 2024-10-07-stl-nesting %})
 
 ## Problem Solving Paradigms (PSP)
 __Most of the problems you ever counter will belong to one amongst the following paradigms__ 

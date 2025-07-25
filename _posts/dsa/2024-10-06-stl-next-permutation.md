@@ -1,7 +1,7 @@
 ---
 title: "next_permutation()"
 date: 2024-10-06 10:45:00 +0530
-categories: [DSA]
+categories: [DSA, STL]
 tags: [cpp, stl, algorithms, permutations, leetcode]
 math: true
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "Mental Models of Various Containers"
 date: 2024-10-07
-categories: dsa
+categories: [DSA, STL]
 math: true
 tags: [STL, C++, mental-models, containers]
 ---

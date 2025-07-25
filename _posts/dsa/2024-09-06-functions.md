@@ -1,7 +1,7 @@
 ---
 title: "Functions"
 date: 2024-09-06 10:00:00 +0530
-categories: [DSA]
+categories: [DSA, C++ Basics]
 tags: [cpp, functions, basics]
 math: true
 ---

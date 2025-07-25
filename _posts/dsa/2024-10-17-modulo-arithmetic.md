@@ -1,7 +1,7 @@
 ---
 title: "Modulo Arithmetic"
 date: 2024-10-17 10:25:00 +0530
-categories: dsa
+categories: [DSA, Modular Arithmetic]
 tags: [modulo, math, number-theory]
 math: true
 ---

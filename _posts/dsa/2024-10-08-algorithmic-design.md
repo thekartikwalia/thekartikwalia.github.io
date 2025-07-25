@@ -2,7 +2,7 @@
 layout: post
 title: "Algorithmic Design & Custom Data Structures"
 date: 2024-10-08
-categories: dsa
+categories: [DSA]
 math: true
 tags: [algorithm-design, data-structure, median, mode, variance, multiset, map, struct, precomputation]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Modulus Operator"
 date: 2024-10-17 8:05:00 +0530
-categories: dsa
+categories: [DSA, Modular Arithmetic]
 tags: [modulo, arithmetic, stl]
 math: true
 ---
