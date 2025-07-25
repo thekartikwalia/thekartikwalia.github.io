@@ -149,7 +149,7 @@ Due to __[[Combination#Divisibility of Product of Consecutive Integers| Divisibi
 
 ---
 __Approach - 4__ : Calculate ${}^{n}\text{C}_{r}$ modulo $10^{9}$, with $n \leq 1000$ and $r \leq n$
-Since mod is not a prime number, [Inverses]({% post_url 2024-10-17-inverses %}##condition-for-inverse-existence) wouldn't always exist 
+Since mod is not a prime number, [Inverses]({% post_url 2024-10-17-inverses %}) wouldn't always exist 
 So we can't perform division (but we can perform addition irrespective of whether modulo is prime or not)
 So we can't go for the code in __Approach - 2__ 
 
