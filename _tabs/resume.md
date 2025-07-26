@@ -47,9 +47,71 @@ order: 2
             border: 1px solid black !important;
             padding: 0 !important;
         }
+        .resume-btn {
+            padding: 4.5px 18px;
+            border-radius: 10px;
+            font-weight: 600;
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            font-family: "Segoe UI", sans-serif;
+            font-size: 14px;
+            /* border: none; */
+            border: 0.2px solid #ccc;
+            transition: all 0.2s ease-in-out;
+        }
+        /* Light theme: black text/icons on light button */
+        :root[data-theme="light"] .resume-btn {
+            background-color: #f7f7f7;
+            color: #111;
+            box-shadow:
+                3px 3px 6px rgba(0, 0, 0, 0.1),
+                -2px -2px 5px rgba(255, 255, 255, 0.8);
+        }
+        /* Dark theme: slightly gray button with light text/icons */
+        :root[data-theme="dark"] .resume-btn {
+            background-color: #1a1a1a;
+            color: #eee;
+            box-shadow:
+                3px 3px 6px rgba(0, 0, 0, 0.6),
+                -2px -2px 5px rgba(255, 255, 255, 0.05);
+        }
+        /* Ensure icon inherits the text color */
+        .resume-btn i::before {
+            color: inherit !important;
+        }
+        /* Hover effect */
+        .resume-btn:hover {
+            transform: translateY(-2px);
+            opacity: 0.85;
+            cursor: pointer;
+        }
     </style>
+    <script>
+        function printResumePDF() {
+            const frame = document.getElementById("pdfFrame");
+            frame.focus();
+            frame.contentWindow.print();
+        }
+    </script>
 </head>
 <body style="width: 100vw; height: 100vh;">
+    <div style="display: flex; gap: 5rem; justify-content: center; flex-wrap: wrap; margin-bottom: 1rem;">
+        <a class="resume-btn" href="javascript:void(0);" onclick="printResumePDF()">
+            <i class="fas fa-print"></i> Print
+        </a>
+        <iframe id="pdfFrame" src="/assets/img/resume/Kartik_Walia_Resume.pdf" style="display: none;"></iframe>
+        <!-- <a class="resume-btn" href="/assets/resume/Kartik_Walia.vcf" download>
+            <i class="fas fa-id-card"></i> vCard
+        </a>
+        <a class="resume-btn" href="/assets/resume/Kartik_Walia_Resume.json" download>
+            <i class="fas fa-code"></i> JSON
+        </a> -->
+        <a class="resume-btn" href="/assets/img/resume/Kartik_Walia_Resume.pdf" download>
+            <i class="fas fa-file-pdf"></i> PDF
+        </a>
+    </div>
     <div class="neumorphic" style="
         width: 100%; 
         height: 100%; 
