@@ -1,1 +1,0 @@
-# thekartikwalia.github.io
